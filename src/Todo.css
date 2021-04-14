@@ -1,0 +1,11 @@
+.listItem {
+    margin-top: 15px;
+    display: flex;
+    border-width: 5px;
+    border-color: #0078d7;
+    background-color: whitesmoke;
+    border-radius: 5px;
+  }
+.listItemText{
+  color: #EF4444;
+}

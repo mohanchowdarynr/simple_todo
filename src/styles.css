@@ -1,0 +1,15 @@
+form{
+  width: auto;
+  height: 40px;
+}
+
+form input{
+  margin-left: 60px;
+  margin-right: 10px;
+  border: none;
+  outline: none;
+  width: auto;
+  height: 32px;
+  border-radius: 30px;
+  text-align: center;
+}
